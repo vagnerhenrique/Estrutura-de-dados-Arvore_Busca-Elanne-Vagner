@@ -1,6 +1,7 @@
 # Árvore Binária de Busca Parcialmente Persistente — Java
 
-**Alunos: Maria Elanne Mendes Rodrigues (603463) Vagner Henrique (matricula: 603486 ) **
+**Alunos: Maria Elanne Mendes Rodrigues (603463) 
+Vagner Henrique (matricula: 603486 )**
 
 Solução para o **trabalho de persistência parcial (pós-graduação)** da disciplina de Estruturas de Dados Avançadas (CKP8077),
 
